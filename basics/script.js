@@ -11,3 +11,5 @@ console.log(und);
 // Symbols are also a primitive data type in JavaScript. Symbols are immutable, and unique. Symbols are often used to create unique object keys. 
 
 // Operators in JavaScript - Arithmetic, Assignment, Comparison, Logical, Bitwise all work similar to other languages
+
+// Conditional statements in JavaScript - if, else, else if, switch works the same as other languages
