@@ -33,3 +33,6 @@ let myArr = ["Fan", "Camera", 34, null, true];
 // const newLen = myArr.unshift("Harry")
 // console.log(newLen);
 // console.log(myArr);
+// myArr.sort(); sorts by compare function, by default, compare function is defined to sort the array by converting the elements into strings and comparing strings in Unicode code points order. We can pass our own compare function to sort the array in a different order.
+// myArr.sort(function(a, b) {return a-b}); // sorts the array in ascending order
+// myArr.sort(function(a, b) {return b-a}); // sorts the array in descending order
