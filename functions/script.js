@@ -38,11 +38,17 @@ let myArr = ["Fan", "Camera", 34, null, true];
 // myArr.sort(function(a, b) {return b-a}); // sorts the array in descending order
 
 // String Methods in JavaScript
-let str = "Harry is a good boy good good Harry";
+// let str = "Harry is a good boy good good Harry";
 // console.log(myLovelyString.length)
 // console.log(myLovelyString.indexOf("good"))
 // console.log(myLovelyString.lastIndexOf("good"))
 // console.log(myLovelyString.slice(0, 4));
-d = str.replace("good", "Bad");
-console.log(d);
+// d = str.replace("good", "Bad");
+// console.log(d);
 
+let myDate = new Date();
+// console.log(myDate.getTime());
+// console.log(myDate.getFullYear());
+// console.log(myDate.getDay());
+// console.log(myDate.getMinutes());
+// console.log(myDate.getHours());
