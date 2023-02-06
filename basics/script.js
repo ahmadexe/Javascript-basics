@@ -9,3 +9,5 @@ var und; // Variables by default on declaration are undefined
 console.log(und);
 
 // Symbols are also a primitive data type in JavaScript. Symbols are immutable, and unique. Symbols are often used to create unique object keys. 
+
+// Operators in JavaScript - Arithmetic, Assignment, Comparison, Logical, Bitwise all work similar to other languages
